@@ -1,4 +1,4 @@
-const CACHE = 'glide-v1';
+const CACHE = 'glide-v2';
 const CORE = [
   './',
   './index.html',
